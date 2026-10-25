@@ -7,10 +7,10 @@ const axios       = require('axios');
 const crypto      = require('crypto');
 
 // ════════════ CONSTANTS ════════════
-const TOKEN        = process.env.TOKEN    || '8910112019:AAEEz4CH6whln2n99qrnEJdjxCtvdJBFjLA';
-const ADMIN_ID     = process.env.ADMIN_ID || '8910112019';
-const CHANNEL      = 'https://t.me/emon67ueey';
-const CHANNEL_LINK = 'https://t.me/emon67ueey';
+const TOKEN        = process.env.TOKEN    || '8745733012:AAEanOJJIQSzn7CtoirOyDeMpRPLjaNhop0';
+const ADMIN_ID     = process.env.ADMIN_ID || '8745733012';
+const CHANNEL      = 'emoncyber';
+const CHANNEL_LINK = 'https://t.me/emoncyber';
 const FB_LINK      = 'https://www.facebook.com/profile.php?id=61595042636110';
 const START_IMG    = 'https://hc1.checker.in/file2link/photos/file_659415.jpg/file_659415.jpg';
 const LURE_VID     = 'http://hc1.checker.in/file2link/videos/file_657140.mp4/';
